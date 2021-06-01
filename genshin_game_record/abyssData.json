@@ -1,0 +1,1190 @@
+{
+  "retcode": 0,
+  "message": "OK",
+  "data": {
+    "schedule_id": 22,
+    "start_time": "1621108800",
+    "end_time": "1622491199",
+    "total_battle_times": 29,
+    "total_win_times": 15,
+    "max_floor": "12-3",
+    "reveal_rank": [
+      {
+        "avatar_id": 10000027,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+        "value": 15,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000030,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+        "value": 15,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000032,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+        "value": 15,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000039,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+        "value": 15,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000025,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+        "value": 12,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000035,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+        "value": 9,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000037,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png",
+        "value": 9,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000022,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+        "value": 9,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000044,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+        "value": 9,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000023,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png",
+        "value": 6,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000046,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+        "value": 6,
+        "rarity": 5
+      }
+    ],
+    "defeat_rank": [
+      {
+        "avatar_id": 10000027,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ningguang.png",
+        "value": 83,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000030,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Zhongli.png",
+        "value": 49,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000037,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ganyu.png",
+        "value": 39,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000046,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png",
+        "value": 17,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000025,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xingqiu.png",
+        "value": 14,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000032,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Bennett.png",
+        "value": 10,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000023,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiangling.png",
+        "value": 8,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000039,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diona.png",
+        "value": 4,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000022,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Venti.png",
+        "value": 4,
+        "rarity": 5
+      }
+    ],
+    "damage_rank": [
+      {
+        "avatar_id": 10000030,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Zhongli.png",
+        "value": 101149,
+        "rarity": 5
+      }
+    ],
+    "take_damage_rank": [
+      {
+        "avatar_id": 10000037,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ganyu.png",
+        "value": 73759,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000027,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ningguang.png",
+        "value": 71017,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000032,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Bennett.png",
+        "value": 36115,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000025,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xingqiu.png",
+        "value": 25104,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000039,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diona.png",
+        "value": 23443,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000030,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Zhongli.png",
+        "value": 21274,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000046,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png",
+        "value": 20673,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000023,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiangling.png",
+        "value": 19992,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000022,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Venti.png",
+        "value": 9846,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000044,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xinyan.png",
+        "value": 1286,
+        "rarity": 4
+      }
+    ],
+    "normal_skill_rank": [
+      {
+        "avatar_id": 10000032,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Bennett.png",
+        "value": 120,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000027,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ningguang.png",
+        "value": 61,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000039,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diona.png",
+        "value": 54,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000025,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xingqiu.png",
+        "value": 51,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000030,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Zhongli.png",
+        "value": 45,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000037,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ganyu.png",
+        "value": 31,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000022,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Venti.png",
+        "value": 18,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000023,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiangling.png",
+        "value": 17,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000046,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png",
+        "value": 14,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000035,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qiqi.png",
+        "value": 12,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000044,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xinyan.png",
+        "value": 12,
+        "rarity": 4
+      }
+    ],
+    "energy_skill_rank": [
+      {
+        "avatar_id": 10000032,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Bennett.png",
+        "value": 35,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000030,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Zhongli.png",
+        "value": 34,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000027,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ningguang.png",
+        "value": 27,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000025,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xingqiu.png",
+        "value": 26,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000039,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diona.png",
+        "value": 22,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000037,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ganyu.png",
+        "value": 19,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000022,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Venti.png",
+        "value": 15,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000023,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiangling.png",
+        "value": 8,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000046,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png",
+        "value": 5,
+        "rarity": 5
+      },
+      {
+        "avatar_id": 10000044,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xinyan.png",
+        "value": 4,
+        "rarity": 4
+      },
+      {
+        "avatar_id": 10000035,
+        "avatar_icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qiqi.png",
+        "value": 2,
+        "rarity": 5
+      }
+    ],
+    "floors": [
+      {
+        "index": 9,
+        "icon": "",
+        "is_unlock": true,
+        "settle_time": "0",
+        "star": 9,
+        "max_star": 9,
+        "levels": [
+          {
+            "index": 1,
+            "star": 3,
+            "max_star": 3,
+            "battles": [
+              {
+                "index": 1,
+                "timestamp": "1621144697",
+                "avatars": [
+                  {
+                    "id": 10000027,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+                    "level": 82,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000030,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000044,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+                    "level": 65,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000032,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+                    "level": 81,
+                    "rarity": 4
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "timestamp": "1621144769",
+                "avatars": [
+                  {
+                    "id": 10000046,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000025,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+                    "level": 77,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000039,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+                    "level": 79,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000035,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+                    "level": 70,
+                    "rarity": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "star": 3,
+            "max_star": 3,
+            "battles": [
+              {
+                "index": 1,
+                "timestamp": "1621144879",
+                "avatars": [
+                  {
+                    "id": 10000027,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+                    "level": 82,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000030,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000044,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+                    "level": 65,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000032,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+                    "level": 81,
+                    "rarity": 4
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "timestamp": "1621144971",
+                "avatars": [
+                  {
+                    "id": 10000046,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000025,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+                    "level": 77,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000039,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+                    "level": 79,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000035,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+                    "level": 70,
+                    "rarity": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 3,
+            "star": 3,
+            "max_star": 3,
+            "battles": [
+              {
+                "index": 1,
+                "timestamp": "1621145036",
+                "avatars": [
+                  {
+                    "id": 10000027,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+                    "level": 82,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000030,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000044,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+                    "level": 65,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000032,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+                    "level": 81,
+                    "rarity": 4
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "timestamp": "1621145096",
+                "avatars": [
+                  {
+                    "id": 10000046,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000025,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+                    "level": 77,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000039,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+                    "level": 79,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000035,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+                    "level": 70,
+                    "rarity": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "icon": "",
+        "is_unlock": true,
+        "settle_time": "0",
+        "star": 9,
+        "max_star": 9,
+        "levels": [
+          {
+            "index": 1,
+            "star": 3,
+            "max_star": 3,
+            "battles": [
+              {
+                "index": 1,
+                "timestamp": "1621145225",
+                "avatars": [
+                  {
+                    "id": 10000027,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+                    "level": 82,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000030,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000044,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+                    "level": 65,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000032,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+                    "level": 81,
+                    "rarity": 4
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "timestamp": "1621145315",
+                "avatars": [
+                  {
+                    "id": 10000046,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000025,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+                    "level": 77,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000039,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+                    "level": 79,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000035,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+                    "level": 70,
+                    "rarity": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "star": 3,
+            "max_star": 3,
+            "battles": [
+              {
+                "index": 1,
+                "timestamp": "1621145392",
+                "avatars": [
+                  {
+                    "id": 10000027,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+                    "level": 82,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000030,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000044,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+                    "level": 65,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000032,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+                    "level": 81,
+                    "rarity": 4
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "timestamp": "1621145458",
+                "avatars": [
+                  {
+                    "id": 10000046,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000025,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+                    "level": 77,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000039,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+                    "level": 79,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000035,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+                    "level": 70,
+                    "rarity": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 3,
+            "star": 3,
+            "max_star": 3,
+            "battles": [
+              {
+                "index": 1,
+                "timestamp": "1621145528",
+                "avatars": [
+                  {
+                    "id": 10000027,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+                    "level": 82,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000030,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000044,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+                    "level": 65,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000032,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+                    "level": 81,
+                    "rarity": 4
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "timestamp": "1621145589",
+                "avatars": [
+                  {
+                    "id": 10000046,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000025,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+                    "level": 77,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000039,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+                    "level": 79,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000035,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+                    "level": 70,
+                    "rarity": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "icon": "",
+        "is_unlock": true,
+        "settle_time": "0",
+        "star": 9,
+        "max_star": 9,
+        "levels": [
+          {
+            "index": 1,
+            "star": 3,
+            "max_star": 3,
+            "battles": [
+              {
+                "index": 1,
+                "timestamp": "1621147238",
+                "avatars": [
+                  {
+                    "id": 10000027,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+                    "level": 82,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000030,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000032,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+                    "level": 81,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000039,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+                    "level": 79,
+                    "rarity": 4
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "timestamp": "1621147371",
+                "avatars": [
+                  {
+                    "id": 10000037,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png",
+                    "level": 86,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000022,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000044,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+                    "level": 65,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000035,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+                    "level": 70,
+                    "rarity": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "star": 3,
+            "max_star": 3,
+            "battles": [
+              {
+                "index": 1,
+                "timestamp": "1621147491",
+                "avatars": [
+                  {
+                    "id": 10000027,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+                    "level": 82,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000030,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000032,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+                    "level": 81,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000039,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+                    "level": 79,
+                    "rarity": 4
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "timestamp": "1621147597",
+                "avatars": [
+                  {
+                    "id": 10000037,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png",
+                    "level": 86,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000022,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000044,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+                    "level": 65,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000035,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+                    "level": 70,
+                    "rarity": 5
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 3,
+            "star": 3,
+            "max_star": 3,
+            "battles": [
+              {
+                "index": 1,
+                "timestamp": "1621148898",
+                "avatars": [
+                  {
+                    "id": 10000027,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+                    "level": 82,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000030,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000032,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+                    "level": 81,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000039,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+                    "level": 79,
+                    "rarity": 4
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "timestamp": "1621148984",
+                "avatars": [
+                  {
+                    "id": 10000037,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png",
+                    "level": 86,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000022,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000044,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+                    "level": 65,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000035,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+                    "level": 70,
+                    "rarity": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "icon": "",
+        "is_unlock": true,
+        "settle_time": "0",
+        "star": 9,
+        "max_star": 9,
+        "levels": [
+          {
+            "index": 1,
+            "star": 3,
+            "max_star": 3,
+            "battles": [
+              {
+                "index": 1,
+                "timestamp": "1621150716",
+                "avatars": [
+                  {
+                    "id": 10000027,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+                    "level": 82,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000030,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000023,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png",
+                    "level": 81,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000032,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+                    "level": 81,
+                    "rarity": 4
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "timestamp": "1621150838",
+                "avatars": [
+                  {
+                    "id": 10000037,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png",
+                    "level": 86,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000022,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000025,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+                    "level": 77,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000039,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+                    "level": 79,
+                    "rarity": 4
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "star": 3,
+            "max_star": 3,
+            "battles": [
+              {
+                "index": 1,
+                "timestamp": "1621150231",
+                "avatars": [
+                  {
+                    "id": 10000027,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+                    "level": 82,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000030,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000022,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000032,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+                    "level": 81,
+                    "rarity": 4
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "timestamp": "1621150353",
+                "avatars": [
+                  {
+                    "id": 10000037,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png",
+                    "level": 86,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000025,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+                    "level": 77,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000023,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png",
+                    "level": 81,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000039,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+                    "level": 79,
+                    "rarity": 4
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "index": 3,
+            "star": 3,
+            "max_star": 3,
+            "battles": [
+              {
+                "index": 1,
+                "timestamp": "1621156467",
+                "avatars": [
+                  {
+                    "id": 10000027,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+                    "level": 82,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000030,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000023,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png",
+                    "level": 81,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000032,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+                    "level": 81,
+                    "rarity": 4
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "timestamp": "1621156593",
+                "avatars": [
+                  {
+                    "id": 10000037,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png",
+                    "level": 86,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000022,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+                    "level": 81,
+                    "rarity": 5
+                  },
+                  {
+                    "id": 10000025,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+                    "level": 77,
+                    "rarity": 4
+                  },
+                  {
+                    "id": 10000039,
+                    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+                    "level": 79,
+                    "rarity": 4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "total_star": 36,
+    "is_unlock": true
+  }
+}
